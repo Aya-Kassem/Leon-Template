@@ -142,7 +142,8 @@ body{
 .feature i {
     color: var(--main-color);
 }
-.feature h4{
+.feature h2{
+    font-size: 20px;
     margin: 20px 0;
 }
 .feature p {

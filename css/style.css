@@ -148,7 +148,8 @@ body{
 }
 .feature p {
     font-size: 17px;
-    color: #777;
+    /* color: #777; */
+    color: #5c5858;
     line-height: 1.8;
 }
 /* FEATURES END */
@@ -160,7 +161,8 @@ body{
     text-align: center;
 }
 .section-heading h2{
-    color:  #ebeced;
+    /* color:  #ebeced; */
+    color: #e2e4e7;
     font-size: 100px;
     letter-spacing: -4px;
     font-weight: 800;

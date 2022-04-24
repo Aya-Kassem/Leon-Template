@@ -30,7 +30,8 @@ body{
 }
 
 .logo{
-    width: 60px
+    width: 60px;
+    height: auto;
 }
 
 .nav-links{
@@ -141,7 +142,7 @@ body{
 .feature i {
     color: var(--main-color);
 }
-.feature h3{
+.feature h4{
     margin: 20px 0;
 }
 .feature p {
@@ -179,7 +180,7 @@ body{
     text-align: start;
     margin-bottom: 30px;
 }
-.service div h4{
+.service div h3{
     font-size: 18px;
     font-weight: 600;
 }
@@ -239,6 +240,7 @@ body{
 }
 .about-section .image img{
     width: 100%;
+    height: auto;
 }
 .about-section .text{
     flex-basis: calc(100% - 500px);
